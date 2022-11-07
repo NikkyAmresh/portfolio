@@ -1,5 +1,5 @@
-import React from 'react';
-const prefix = "/react-portfolio";
+import React from "react";
+const prefix = "";
 // const prefix = "";
 
 export default prefix;
